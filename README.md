@@ -7,4 +7,4 @@
 
 
 
-[Link to website](https://afreeninnovates.github.io/CodeEditor/)
+• [Link to website](https://afreeninnovates.github.io/CodeEditor/)
